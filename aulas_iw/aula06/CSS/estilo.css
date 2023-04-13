@@ -1,0 +1,13 @@
+p{
+    color: aquamarine;
+}
+.um{
+    color: blue;
+} 
+.dois{
+    color: rgb(30, 255, 0);
+}
+#título{
+    color: rgba(61, 0, 202, 0.637);
+    border: 2px solid black;
+}
